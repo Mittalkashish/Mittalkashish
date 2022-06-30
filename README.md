@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mittalkashish
-- 👀 I’m interested in web devlopment, tech enthusiast , currently exploring in tech .
+- 👀 I’m interest in web devlopment, tech enthusiast , currently exploring in tech .
 - 🌱 I’m currently learning advance javascript concepts.
 - 📫 How to reach me kashishmittalkashishmittal@gmail.com
 
