@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mittalkashish
 - 👀  interest in web devlopment, tech enthusiast , currently exploring in tech .
-- 🌱 I’m currently learning PYTHON.
 - 📫 How to reach me kashishmittalkashishmittal@gmail.com
 
 <!---
