@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mittalkashish
-- 👀  Interest in web devlopment .
+- 👀  Interest in Blockchain & web devlopment .
 - 📫 How to reach me kashishmittalkashishmittal@gmail.com
 
 <!---
